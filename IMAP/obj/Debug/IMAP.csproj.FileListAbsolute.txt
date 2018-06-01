@@ -5,3 +5,10 @@ C:\Users\Tomas\source\repos\IMAP\IMAP\obj\Debug\IMAP.csproj.CoreCompileInputs.ca
 C:\Users\Tomas\source\repos\IMAP\IMAP\obj\Debug\IMAP.exe
 C:\Users\Tomas\source\repos\IMAP\IMAP\obj\Debug\IMAP.pdb
 C:\Users\Tomas\source\repos\IMAP\IMAP\obj\Debug\IMAP.csprojResolveAssemblyReference.cache
+C:\Users\Tomas\Documents\GitHub\IMAP\IMAP\bin\Debug\IMAP.exe.config
+C:\Users\Tomas\Documents\GitHub\IMAP\IMAP\bin\Debug\IMAP.exe
+C:\Users\Tomas\Documents\GitHub\IMAP\IMAP\bin\Debug\IMAP.pdb
+C:\Users\Tomas\Documents\GitHub\IMAP\IMAP\obj\Debug\IMAP.csprojResolveAssemblyReference.cache
+C:\Users\Tomas\Documents\GitHub\IMAP\IMAP\obj\Debug\IMAP.csproj.CoreCompileInputs.cache
+C:\Users\Tomas\Documents\GitHub\IMAP\IMAP\obj\Debug\IMAP.exe
+C:\Users\Tomas\Documents\GitHub\IMAP\IMAP\obj\Debug\IMAP.pdb

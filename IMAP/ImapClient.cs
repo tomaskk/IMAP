@@ -42,8 +42,8 @@ namespace IMAP
 
         public void ConnectToGmail()      //---#1 log in
         {
-            string user; // = "TestForTinklai"; // @gmail.com
-            string pw;   // = "XXX";
+            string user; 
+            string pw;   
 
             Console.WriteLine("Username W/O <@gmail.com>: ");
             user = Console.ReadLine();
