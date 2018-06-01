@@ -12,3 +12,5 @@ All functions are working, except these were left untouched:
   > AUTHENTICATE - because LOGIN function takes care of that.
   > APPEND - because it's very complicated and IMAP is used for accessing messages, not saving/editing them.
   > X<atom> - because it's used for experimental/expansion related stuff - not needed.
+
+Created using Visual Studio 2017.
